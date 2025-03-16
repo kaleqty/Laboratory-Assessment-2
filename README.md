@@ -74,6 +74,5 @@ The website uses a combination of **Flexbox** and **CSS Grid** for efficient lay
   }
 
 
+![My Portfolio - Google Chrome 16_03_2025 1_53_05 pm](https://github.com/user-attachments/assets/4f5a8d0d-1859-46b7-af7d-b73d1273dd5d)
 
-
-  
