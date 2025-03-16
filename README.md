@@ -25,8 +25,7 @@ The website uses a combination of **Flexbox** and **CSS Grid** for efficient lay
   header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-}
+  justify-content: space-between;}
 
 ### **2. CSS Grid Usage**
 - **Homepage Layout  (`.home`)**
@@ -35,8 +34,7 @@ The website uses a combination of **Flexbox** and **CSS Grid** for efficient lay
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  gap: 1rem;
-}
+  gap: 1rem;}
 
 ## Responsive Design
 - **For Tablets (`max-width: 768px`)**
@@ -55,8 +53,7 @@ The website uses a combination of **Flexbox** and **CSS Grid** for efficient lay
   .navmenu {
     flex-direction: column;
     text-align: center;
-  }
-}
+  }}
 
 - **For Mobile  (`max-width: 480px`)**
   ```css
